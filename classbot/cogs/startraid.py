@@ -4,7 +4,7 @@ import discord
 import datetime
 from classbot import bot_config
 from discord.ext import commands
-from classbot.utils import CUR_RAIDS_PATH, load_message, cur_raids, get_react_message
+from classbot.utils import CUR_RAIDS_PATH, load_message, cur_raids
 
 EMPTY_RAID_CLASS = "Nobody is currently playing this class!"
 
